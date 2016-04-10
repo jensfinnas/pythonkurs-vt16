@@ -12,4 +12,5 @@ enhorningar = [
 raknare = 1
 print("Nu börjar programmet! Vi sätter räknaren på 1.")
 
+# Skriv kod här!
 

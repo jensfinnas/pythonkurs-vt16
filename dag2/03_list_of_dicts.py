@@ -25,5 +25,11 @@ data = [
     { "kommun": "Avesta", "M": 2264.0, "C": 825.0, "FP": 453.0, "KD": 439.0, "MP": 525.0, "S": 6121.0, "V": 820.0, "SD": 2837.0, "ovr": 370.0, "ogiltiga": 159.0, "ej_rost": 2411.0, "totalt": 17224.0 }
 ]
 
+print("Här börjar programmet")
+
 for rad in data:
+    print("Här kommer en ny rad")
     print(rad)
+    # Skriv kod här!
+
+print("Här slutar programmet")
